@@ -12,7 +12,7 @@ const Text = ({ bg, color, text }) => {
 Text.defaultProps = {
     bg: 'red',
     color: 'white',
-    text:'Lo ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus sem at ligula laoreet maximus. Cras dui diam, dignissim sed quam ut, porta rhoncus turpis.'
+    text:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus sem at ligula laoreet maximus. Cras dui diam, dignissim sed quam ut, porta rhoncus turpis.'
 }
 
 
